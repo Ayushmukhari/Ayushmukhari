@@ -1,213 +1,339 @@
+<!-- ANIMATED HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Ayush%20Mukhari&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=75&descSize=20&stroke=A855F7&strokeWidth=2" width="100%"/>
+</div>
+
+<!-- ANIMATED TYPING LINES -->
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ayush+Mukhari+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&random=true&width=600&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%A7%A0+Turning+coffee+into+clean+code;%F0%9F%8C%9F+Open+source+is+my+love+language;%F0%9F%94%A5+if(coding)+%7B+keep_going()%3B+%7D;%F0%9F%8E%AF+Debug%2C+Deploy%2C+Repeat)](https://git.io/typing-svg)
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Ayushmukhari&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Ayushmukhari?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
+<!-- DYNAMIC BADGES ROW -->
+<a href="https://github.com/Ayushmukhari">
+  <img src="https://komarev.com/ghpvc/?username=Ayushmukhari&label=👁️+Profile+Views&color=A855F7&style=for-the-badge" />
+</a>
+<a href="https://github.com/Ayushmukhari?tab=followers">
+  <img src="https://img.shields.io/github/followers/Ayushmukhari?label=Followers&style=for-the-badge&color=A855F7&logo=github" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-A855F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lives-India%20🇮🇳-A855F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" />
 
 </div>
 
+<br/>
+
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<!-- ABOUT + GIF SIDE BY SIDE -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧑‍💻 About Me
+### 🧑‍💻 Who Am I?
 
-```yaml
-name: Ayush Mukhari
-location: India 🇮🇳
-role: Full Stack Developer
-currently_learning:
-  - Cloud Architecture ☁️
-  - Machine Learning 🤖
-  - System Design 🏗️
-fun_fact: I debug with console.log and I'm not ashamed 😄
-available_for: Freelance & Open Source
+```javascript
+const ayush = {
+  name    : "Ayush Mukhari",
+  age     : "∞ (in dog years 🐶)",
+  location: "India 🇮🇳",
+  role    : "Full Stack Developer",
+
+  building: "Next-gen web experiences 🚀",
+  learning: ["Cloud Arch ☁️",
+             "Machine Learning 🤖",
+             "System Design 🏗️"],
+
+  skills  : ["React", "Node", "Python",
+             "Docker", "AWS", "PostgreSQL"],
+
+  passions: ["Open Source 💚",
+             "Hackathons 🏆",
+             "Clean Code 🧹"],
+
+  motto   : "Ship it. Iterate. Improve. 🔁"
+};
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="coding gif"/>
+
+<br/>
+
+<!-- Real-time clock badge -->
+![](https://img.shields.io/badge/Time%20Zone-IST%20(UTC%2B5:30)-blue?style=flat-square&logo=clockify)
+![](https://img.shields.io/badge/Status-Coding%20Right%20Now%20💻-success?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- Snake Contribution Graph -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
 
-### 🐍 My Contributions Get Eaten!
+### 🐍 Watch the Snake Eat My Contributions!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushmukhari/Ayushmukhari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushmukhari/Ayushmukhari/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ayushmukhari/Ayushmukhari/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Ayushmukhari/Ayushmukhari/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushmukhari/Ayushmukhari/output/github-snake.svg"/>
+  <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/Ayushmukhari/Ayushmukhari/output/github-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- Tech Stack -->
-### 🛠️ Tech Stack & Tools
-
+<!-- ANIMATED SKILL BARS -->
 <div align="center">
 
-**Languages**
+### 🎯 Skill Proficiency
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
 
-**Frontend**
+<table align="center">
+<tr>
+<td>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+**Frontend Magic 🎨**
 
-**Backend**
+![React](https://img.shields.io/badge/React-95%25-61DAFB?style=flat-square&logo=react&logoColor=white)
+`████████████████████░` 95%
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TypeScript](https://img.shields.io/badge/TypeScript-88%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+`█████████████████░░░░` 88%
 
-**Database & Cloud**
+![Next.js](https://img.shields.io/badge/Next.js-85%25-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+`█████████████████░░░░` 85%
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-90%25-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+`██████████████████░░░` 90%
 
-**Tools**
+</td>
+<td>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Backend Power ⚡**
+
+![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+`██████████████████░░░` 90%
+
+![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white)
+`█████████████████░░░░` 85%
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-316192?style=flat-square&logo=postgresql&logoColor=white)
+`████████████████░░░░░` 80%
+
+![Docker](https://img.shields.io/badge/Docker-78%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+`███████████████░░░░░░` 78%
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TECH STACK — ANIMATED ICONS -->
+<div align="center">
+
+### 🛠️ Full Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go&theme=dark&perline=6" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&theme=dark&perline=6" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,graphql,prisma&theme=dark&perline=6" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase,supabase&theme=dark&perline=6" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,nginx,linux&theme=dark&perline=6" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,bash&theme=dark&perline=6" />
 
 </div>
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GITHUB STATS — SIDE BY SIDE -->
+<div align="center">
+
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/Ayushmukhari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushmukhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" alt="Ayush's GitHub Stats"/>
-</a>
-<a href="https://github.com/Ayushmukhari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmukhari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" alt="Top Languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushmukhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&ring_color=A855F7" height="175" alt="stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmukhari&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="175" alt="langs"/>
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushmukhari&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
-</div>
-
----
-
-<!-- Activity Graph -->
-### 📈 Contribution Activity
-
+<!-- STREAK STATS -->
 <div align="center">
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushmukhari&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://streak-stats.demolab.com?user=Ayushmukhari&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&dates=888888" width="70%" alt="streak"/>
 
 </div>
 
 ---
 
-<!-- Trophies -->
+<!-- 3D CONTRIBUTION CALENDAR -->
+<div align="center">
+
+### 🗓️ 3D Contribution Calendar
+
+[![Ayush's 3D Contribution Calendar](https://github-profile-3d-contrib.vercel.app/api?username=Ayushmukhari&theme=tokyonight)](https://github.com/Ayushmukhari)
+
+</div>
+
+---
+
+<!-- ANIMATED ACTIVITY GRAPH -->
+<div align="center">
+
+### 📈 Contribution Heatmap
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushmukhari&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&area_color=A855F7&hide_border=true&custom_title=Ayush's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+<div align="center">
+
 ### 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushmukhari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushmukhari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- Featured Projects -->
-### 🚀 Featured Projects
+<!-- CURRENTLY BUILDING + METRICS -->
+<table>
+<tr>
+<td width="55%" valign="top">
 
+### 🔥 Currently Hacking On
+
+```bash
+$ git log --oneline --graph -5
+
+* 🔧 feat: building something epic
+* ⚡ perf: optimized critical path  
+* 🐛 fix: squashed that nasty bug
+* ✨ feat: new API endpoint added
+* 📦 chore: updated dependencies
+
+$ echo "Status: 🟢 Available for collab!"
+Status: 🟢 Available for collab!
+
+$ whoami
+Full Stack Dev | Open Source Lover
+```
+
+</td>
+<td width="45%" valign="top">
+
+### ⚡ Quick Facts
+
+🌱 &nbsp;Learning **Cloud Architecture & ML**  
+👯 &nbsp;Looking to **collaborate on OSS**  
+💬 &nbsp;Ask me about **React, Node, APIs, DSA**  
+📫 &nbsp;Reach me at **ayush@example.com**  
+⚡ &nbsp;Fun fact: **I think in components** 😄  
+
+<br/>
+
+**🎧 Vibe while coding:**  
+![Spotify](https://img.shields.io/badge/Lo--fi%20Hip%20Hop-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+**☕ Fuel:**  
+![Coffee](https://img.shields.io/badge/Coffee-∞%20Cups-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- FEATURED REPOS GRID -->
 <div align="center">
 
+### 🚀 Featured Projects
+
 <a href="https://github.com/Ayushmukhari">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmukhari&repo=Ayushmukhari&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&icon_color=A855F7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushmukhari&repo=Ayushmukhari&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&icon_color=A855F7&description_lines_count=2" />
+</a>
+
+> 📌 *Pin your top repos on GitHub — replace `repo=` with your actual repo names to showcase them here!*
+
+</div>
+
+---
+
+<!-- WEEKLY WAKATIME STATS -->
+<div align="center">
+
+### ⏱️ This Week I Spent Time On
+
+<!--START_SECTION:waka-->
+
+```text
+💡 Set up WakaTime + the GitHub Action to auto-fill live coding stats here!
+   See: https://github.com/anmol098/waka-readme-stats
+```
+
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+<div align="center">
+
+### 🌐 Let's Build Something Together!
+
+<a href="https://linkedin.com/in/ayushmukhari">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/ayushmukhari">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+<a href="https://instagram.com/ayushmukhari">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://ayushmukhari.dev">
+  <img src="https://img.shields.io/badge/Portfolio-%23A855F7.svg?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+<a href="mailto:ayush@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://dev.to/ayushmukhari">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+<a href="https://hashnode.com/@ayushmukhari">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- ANIMATED QUOTE -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<!-- SUPPORT -->
+<a href="https://www.buymeacoffee.com/ayushmukhari">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
 </div>
 
-> 💡 *Pin your best repos on GitHub and they will show here — replace the `repo=` values above with your actual repo names!*
-
 ---
 
-<!-- Currently Working On -->
-### 🔥 What I'm Up To
-
-```javascript
-const ayush = {
-  currentlyBuilding: "Something cool that I'll open source soon 🔧",
-  learning:          ["System Design", "Kubernetes", "LLMs & Prompt Engineering"],
-  askMeAbout:        ["Web Dev", "APIs", "DSA", "Open Source"],
-  hobbies:           ["Hackathons 🏆", "Gaming 🎮", "Reading Tech Blogs 📚"],
-  reachMe:           "Let's connect below! 👇"
-};
-```
-
----
-
-<!-- Coding Stats -->
-### ⏱️ Weekly Dev Breakdown
-
-<!--START_SECTION:waka-->
-> 🔒 Set up [WakaTime](https://wakatime.com) and add the **WakaTime GitHub Action** to auto-populate your weekly coding stats here!
-<!--END_SECTION:waka-->
-
----
-
-<!-- Connect Section -->
-### 🌐 Let's Connect!
-
+<!-- FOOTER WAVE -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushmukhari)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayushmukhari)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayushmukhari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushmukhari.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush@example.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ayushmukhari)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<sub>⭐ <b>Star repos you find helpful</b> — it seriously makes my day! 🙏</sub><br/>
+<sub>Made with ❤️ and way too much ☕ by <a href="https://github.com/Ayushmukhari">Ayush Mukhari</a></sub>
 
 </div>
-
----
-
-<!-- Fun Quote -->
-<div align="center">
-
-### 💬 Random Dev Quote
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<!-- Footer Wave -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling" width="100%" />
-
-*⭐ Star some repos if you find them helpful — it means the world!*
-
-</div>
-
